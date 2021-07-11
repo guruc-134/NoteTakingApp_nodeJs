@@ -63,7 +63,7 @@ const loadNotes = (print=false) =>{
         return []
     }
 }
-//  to read a particular note the user shal l enter the title of the addNotes
+//  to read a particular note the user shall enter the title of the addNotes
 
 const readNotes = (title)=>{
     const notes = loadNotes()
